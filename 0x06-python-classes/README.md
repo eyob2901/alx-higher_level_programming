@@ -1,9 +1,6 @@
 # Python - Classes and Objects
 
-In this project, I began practicing object-oriented programming using
-classes and objects in Python. I learned about attributes, methods, and
-properties as well as data abstraction, data encapsulation, and information
-hiding.
+
 
 ## Tasks :page_with_curl:
 
@@ -95,4 +92,3 @@ hiding.
 
 * **10. ByteCode -> Python #5**
   * [103-magic_class.py](./103-magic_class.py): Python function matching exactly a bytecode
-  provided by Holberton School.
