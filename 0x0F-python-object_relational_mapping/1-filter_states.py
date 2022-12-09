@@ -10,5 +10,3 @@ if __name__ == "__main__":
     cur = db.cursor()
     cur.execute("""SELECT * FROM `states` ORDER BY `id`")
     [print(state) for state in c.fetchall() if state[1][0] == "N"]
-    cur.close()
-    db.close()
